@@ -1,5 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" data-color-mode="light" data-light-theme="light" data-dark-theme="dark_dimmed">
+ <style>
+    .social-buttons{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    margin: 2 px;
+    flex-wrap:wrap;
+    gap:15px;
+}
+  </style>
   <head>
     <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://github.githubassets.com">
@@ -12,18 +24,7 @@
   <link rel="icon" href="assets/img/brand/ts2022.png" type="image/png"><!-- Font Awesome -->
     <link rel="stylesheet" href="assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
   </head>
-  <style>
-    .social-buttons{
-    display:flex;
-    justify-content:center;
-    align-items: center;
-    height: 100%;
-    width: 100%;
-    margin: 2 px;
-    flex-wrap:wrap;
-    gap:15px;
-}
-  </style>
+ 
   <body>
 <h2>Hello there 👋 I am Khushi Mattu</h2> 
 <p>I am Khushi Mattu, currently a student at Vellore Institute of Technology doing Computer Science.</p>
