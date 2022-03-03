@@ -23,9 +23,9 @@
 <p>👯 I’m looking to collaborate on any web development or app development related projects.</p>
 <h2>Connect with me!</h2>
         <ul>
-                <a href="https://www.linkedin.com/in/khushi-mattu/" target="_blank" class="fa fa-linkedin-square fa_custom"></a>
-                <a  href="https://github.com/Khushi-Mattu" target="_blank" class="fa fa-github fa_black"></a>
-                <a href="mailto: khushimattu10@gmail.com" target="_blank" class="fa fa-envelope fa_red" ></a>
+                <a href="https://www.linkedin.com/in/khushi-mattu/" target="_blank" class="fa fa-linkedin-square fa_custom">Linkedin</a>
+                <a  href="https://github.com/Khushi-Mattu" target="_blank" class="fa fa-github fa_black">Github</a>
+                <a href="mailto: khushimattu10@gmail.com" target="_blank" class="fa fa-envelope fa_red" >Mail</a>
         </ul>
 <p></p>
 </body>
