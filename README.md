@@ -3,8 +3,7 @@
 <p>I am interested in web development, app development and Data Analytics. I am also exploring other domains</p>
 <p>🌱 I’m currently learning to become a full stack developer. </p>
 <h3>Connect with me!</h3>
-<h4>My github stats!</h4>
-<p>https://github-readme-stats.vercel.app/api?username=Khushi-Mattu)](https://github.com/Khushi-Mattu/github-readme-stats </p>
+
 <!--
 **Khushi-Mattu/Khushi-Mattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
