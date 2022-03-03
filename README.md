@@ -1,18 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" data-color-mode="light" data-light-theme="light" data-dark-theme="dark_dimmed">
-
   <head>
     <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
-  <link rel="preconnect" href="https://avatars.githubusercontent.com">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <meta name="viewport" content="width=device-width">
-  <link rel="icon" href="assets/img/brand/ts2022.png" type="image/png"><!-- Font Awesome -->
-    <link rel="stylesheet" href="assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
     <style>
     .fa {
     padding: 20px;
