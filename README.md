@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-color-mode="light" data-light-theme="light" data-dark-theme="dark_dimmed">
- <style>
-    .social-buttons{
-    display:flex;
-    justify-content:center;
-    align-items: center;
-    height: 100%;
-    width: 100%;
-    margin: 2 px;
-    flex-wrap:wrap;
-    gap:15px;
-}
-  </style>
+
   <head>
     <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://github.githubassets.com">
@@ -27,16 +16,28 @@
  
   <body>
 <h2>Hello there 👋 I am Khushi Mattu</h2> 
-<p>I am Khushi Mattu, currently a student at Vellore Institute of Technology doing Computer Science.</p>
+<p>I am Khushi Mattu, currently a student at Vellore Institute of Technology studying Computer Science.</p>
 <p>I am interested in web development, app development and Data Analytics. I am also exploring other domains</p>
 <p>🌱 I’m currently learning to become a full stack developer. </p>
 <h2>Connect with me!</h2>
-        <div className="social-buttons">
-          <a href="https://www.linkedin.com/in/khushi-mattu/">
-            <i class="fa fa-linkedin"></i>
-            </div>
-          </a>
-        </div>
+          <ul class="nav mt-4">
+                            <li class="nav-item">
+                                <a class="nav-link pl-0" href="https://www.linkedin.com/in/khushi-mattu/" target="_blank">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://github.com/Khushi-Mattu" target="_blank">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="mailto: khushimattu10@gmail.com" target="_blank">
+                                    <i class="fab fa-envelope"></i>
+                                </a>
+                            </li>
+                        </ul>
+
 <p></p>
 </body>
 <!--
