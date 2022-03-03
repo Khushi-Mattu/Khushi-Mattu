@@ -9,9 +9,11 @@
   <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
   <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <meta name="viewport" content="width=device-width">
   <link rel="icon" href="assets/img/brand/ts2022.png" type="image/png"><!-- Font Awesome -->
     <link rel="stylesheet" href="assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
   </head>
  
   <body>
@@ -19,25 +21,19 @@
 <p>I am Khushi Mattu, currently a student at Vellore Institute of Technology studying Computer Science.</p>
 <p>I am interested in web development, app development and Data Analytics. I am also exploring other domains</p>
 <p>🌱 I’m currently learning to become a full stack developer. </p>
+<p>👯 I’m looking to collaborate on any web development or app development related projects.</p>
 <h2>Connect with me!</h2>
-          <ul class="nav mt-4">
-                            <li class="nav-item">
-                                <a class="nav-link pl-0" href="https://www.linkedin.com/in/khushi-mattu/" target="_blank">
-                                    <i class="fab fa-linkedin"></i>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://github.com/Khushi-Mattu" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="mailto: khushimattu10@gmail.com" target="_blank">
-                                    <i class="fab fa-envelope"></i>
-                                </a>
-                            </li>
-                        </ul>
-
+        <ul>
+            
+                <a href="https://www.linkedin.com/in/khushi-mattu/" target="_blank" class="fa fa-linkedin-square fa_custom"></a>
+            
+            
+                <a  href="https://github.com/Khushi-Mattu" target="_blank" class="fa fa-github fa_black"></a>
+        
+            
+                <a href="mailto: khushimattu10@gmail.com" target="_blank" class="fa fa-envelope fa_red" ></a>
+            
+        </ul>
 <p></p>
 </body>
 <!--
