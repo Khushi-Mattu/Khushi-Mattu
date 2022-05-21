@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" data-color-mode="light" data-light-theme="light" data-dark-theme="dark_dimmed">
 
@@ -21,9 +22,16 @@
 <p>I am interested in web development, app development and Data Analytics. I am also exploring other domains<p>
 <p>🌱 I’m currently learning to become a full stack developer. </p>
 <p>👯 I’m looking to collaborate on any web development projects.</p>
-    <p>
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Mattu&theme=highcontrast&show_icons=true&count_private=true)
-    </p>
+
+ <h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Khushi-Mattu&column=9&theme=gruvbox&no-frame=true"/>
+
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushi-Mattu&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Mattu&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khushi-Mattu&theme=neon-palenight&hide_border=true)
 <h2>Connect with me!</h2>
         <ul>
                 <a href="https://www.linkedin.com/in/khushi-mattu/" target="_blank" class="fa fa-linkedin-square fa_custom">Linkedin</a>
