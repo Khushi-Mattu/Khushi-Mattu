@@ -21,6 +21,9 @@
 <p>I am interested in web development, app development and Data Analytics. I am also exploring other domains<p>
 <p>🌱 I’m currently learning to become a full stack developer. </p>
 <p>👯 I’m looking to collaborate on any web development projects.</p>
+    <p>
+    ![Github stats](https://github-readme-stats.vercel.app/api?username=Khushi-Mattu&theme=highcontrast&show_icons=true&count_private=true)
+    </p>
 <h2>Connect with me!</h2>
         <ul>
                 <a href="https://www.linkedin.com/in/khushi-mattu/" target="_blank" class="fa fa-linkedin-square fa_custom">Linkedin</a>
