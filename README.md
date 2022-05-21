@@ -33,11 +33,17 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khushi-Mattu&theme=neon-palenight&hide_border=true)
 <h2>Connect with me!</h2>
-        <ul>
-                <a href="https://www.linkedin.com/in/khushi-mattu/" target="_blank" class="fa fa-linkedin-square fa_custom">Linkedin</a>
-                <a  href="https://github.com/Khushi-Mattu" target="_blank" class="fa fa-github fa_black">Github</a>
-                <a href="mailto: khushimattu10@gmail.com" target="_blank" class="fa fa-envelope fa_red" >Mail</a>
-        </ul>
+        <div id="badges">
+  <a href="https://www.linkedin.com/in/khushi-mattu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="khushimattu10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/Khushi-Mattu">
+    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
 <p></p>
 </body>
 <!--
