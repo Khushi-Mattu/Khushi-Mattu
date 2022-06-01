@@ -19,7 +19,7 @@
   <body>
 <h2>Hello there 👋 I am Khushi Mattu</h2> 
 <p>I am Khushi Mattu, currently a student at Vellore Institute of Technology studying Computer Science.</p>
-<p>I am interested in web development, app development and Data Analytics. I am also exploring other domains<p>
+<p>I am interested in web development, app development, Machine learning and Data Analytics. I am also exploring other domains<p>
 <p>🌱 I’m currently learning to become a full stack developer. </p>
 <p>👯 I’m looking to collaborate on any web development projects.</p>
 
