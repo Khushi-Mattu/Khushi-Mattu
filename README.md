@@ -23,6 +23,10 @@
 <p>🌱 I’m currently learning to become a full stack developer. </p>
 <p>👯 I’m looking to collaborate on any web development or machine learning projects.</p>
 
+
+<h4> Profile Views </h4>
+![](https://komarev.com/ghpvc/?username=Khushi-Mattu)
+</br>
  <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Khushi-Mattu&column=9&theme=gruvbox&no-frame=true"/>
 
